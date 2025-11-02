@@ -1,0 +1,7 @@
+﻿.venv/
+node_modules/
+__pycache__/
+*.parquet
+*.zip
+*.log
+.DS_Store
